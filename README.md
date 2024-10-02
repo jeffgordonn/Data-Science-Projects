@@ -1,1 +1,0 @@
-Exploring a dataset on Kaggle, I was able to develop a stacked classifier which accurately predicted heart disease at 95%. This classifier was made from a non-subject matter expert in terms of health, so comments and critiques are invited
